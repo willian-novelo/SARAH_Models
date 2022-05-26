@@ -1,0 +1,4 @@
+OnlyLowEnergySPheno = True;
+
+
+MINPAR={};
